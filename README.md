@@ -22,10 +22,13 @@ This PowerShell script automates the process of connecting to vCenter datacenter
     Install-Module -Name VMware.PowerCLI -Force -Scope CurrentUser
     ```
 
-2. Clone the [Connect-vCenters-SSH](https://github.com/TopSpeed0/Connect-vCenters-SSH.git) repository:
+2. Clone the [Connect-vCenters-SSH](https://github.com/TopSpeed0/Connect-vCenters-SSH.git),[Add-ComputerNode](https://github.com/TopSpeed0/Add-ComputerNode.git) repository:
 
     ```bash
     git clone git@github.com:TopSpeed0/Connect-vCenters-SSH.git
+    ```
+    ```bash
+    git clone https://github.com/TopSpeed0/Add-ComputerNode.git
     ```
 
 3. Run the script:
