@@ -64,4 +64,4 @@ Feel free to contribute and improve this script!
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). See the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE.md](LICENSE) file for details.
