@@ -34,7 +34,7 @@ This PowerShell script automates the process of connecting to vCenter datacenter
 3. Run the script:
 
     ```powershell
-    .\VMware_connections_dev.ps1
+    .\Connect-vCenters-SSH.ps1
     ```
 
 4. Follow the prompts to provide necessary information for connecting to vCenter and adding ESXi compute nodes.
