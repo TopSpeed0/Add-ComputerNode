@@ -12,7 +12,7 @@ else {
     # https://github.com/TopSpeed0/Connect-vCenters-SSH.git
     # git@github.com:TopSpeed0/Connect-vCenters-SSH.git
     # gh repo clone TopSpeed0/Connect-vCenters-SSH
-    & .\'VMware connections_dev.ps1' # will connect to multiple Datacenter base on promt.
+    & .\'Connect-vCenters-SSH.ps1' # will connect to multiple Datacenter base on promt.
 }
 
 #use static Cluster or use Daynamic
